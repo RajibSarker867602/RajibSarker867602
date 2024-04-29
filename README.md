@@ -5,7 +5,7 @@
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajibsarker867602" alt="rajibsarker867602" /></a> </p>
+[//]: <> (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajibsarker867602" alt="rajibsarker867602" /></a> </p>)
 
 - 🔭 I’m currently working on **software development**
 
