@@ -1,4 +1,5 @@
-![Software Engineer](https://media.licdn.com/dms/image/D5603AQHOoTQDl-ltVA/profile-displayphoto-shrink_800_800/0/1709130098850?e=1720051200&v=beta&t=FojTtfS-9QS1TK3JZ9ub0BvEURdoiIkkK1kQ775_7OI)
+[//]: <> (https://media.licdn.com/dms/image/D5603AQHOoTQDl-ltVA/profile-displayphoto-shrink_800_800/0/1709130098850?e=1720051200&v=beta&t=FojTtfS-9QS1TK3JZ9ub0BvEURdoiIkkK1kQ775_7OI)
+
 
 <h1 align="center">Hi 👋, I'm Rajib Sarker</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
